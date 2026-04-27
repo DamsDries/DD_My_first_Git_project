@@ -2,6 +2,10 @@
 
 ## Basic rountine
 
+checking if files were commited
+
+`git status`
+
 adding to staging area
 
 `git add <file name> <file_name>`
